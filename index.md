@@ -3,10 +3,8 @@
 ## Description
 This is an example website built while learning how to use Jekyll and GitHub Pages. 
 
-{{ site.description }}
 
-
-More details about the project are available from the [About page](about).
+More details about me and my projects are available from the [About page](about).
 
 
 Have any questions about what I do? [I'd love to hear from you!](mailto:{{ site.email }})
